@@ -1,0 +1,23 @@
+{
+  "name": "1day1algo",
+  "version": "1.0.0",
+  "description": "매일 매일 알고리즘 풀기",
+  "main": "index.js",
+  "scripts": {
+    "jest": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SY-MOON/1day1algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SY-MOON/1day1algorithm/issues"
+  },
+  "homepage": "https://github.com/SY-MOON/1day1algorithm#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}

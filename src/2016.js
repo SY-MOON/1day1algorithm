@@ -7,3 +7,5 @@ function solution(a, b) {
     
     return answer;
 }
+
+module.exports = solution
