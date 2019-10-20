@@ -18,3 +18,5 @@ function getMinimumCost(k, c) {
     }
     return totalPrice;
 }
+
+module.exports = getMinimumCost

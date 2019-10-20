@@ -24,3 +24,5 @@ function equalStacks(h1, h2, h3) {
     }
     return result;
 }
+
+module.exports = equalStacks

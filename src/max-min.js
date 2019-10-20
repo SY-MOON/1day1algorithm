@@ -13,3 +13,5 @@ function maxMin(k, arr) {
     }
     return minUnfairness;
 };
+
+module.exports = maxMin

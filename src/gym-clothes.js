@@ -23,3 +23,5 @@ function solution(n, lost, reserve) {
     
     return answer;
 }
+
+module.exports = solution

@@ -7,3 +7,5 @@ function solution(s) {
     answer = splited.join(" ");
     return answer;
 }
+
+module.exports = solution

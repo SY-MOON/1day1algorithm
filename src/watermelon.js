@@ -7,3 +7,5 @@ function solution(n) {
     answer = watermelon.join('');
     return answer;
 }
+
+module.exports = solution

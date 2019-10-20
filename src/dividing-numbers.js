@@ -8,3 +8,5 @@ function solution(arr, divisor) {
 
     return answer;
 }
+
+module.exports = solution

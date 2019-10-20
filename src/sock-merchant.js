@@ -11,3 +11,5 @@ function sockMerchant(n, ar) {
 
 	return pair; 
 }
+
+module.exports = sockMerchant

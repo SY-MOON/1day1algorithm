@@ -25,3 +25,6 @@ function isBalanced(s) {
     }
     return result
 };
+
+
+module.exports = isBalanced

@@ -9,3 +9,5 @@ function timeConversion(s) {
         return s.slice(0,8);
     }
 }
+
+module.exports = timeConversion

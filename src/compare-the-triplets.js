@@ -9,3 +9,5 @@ function compareTriplets(a, b) {
     }
     return result;
 }
+
+module.exports = compareTriplets

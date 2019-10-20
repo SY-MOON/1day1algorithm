@@ -18,3 +18,5 @@ function solution(s) {
     answer = words.join(' ');
     return answer;
 }
+
+module.exports = solution

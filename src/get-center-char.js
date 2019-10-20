@@ -8,3 +8,5 @@ function solution(s) {
     }
     return answer;
 }
+
+module.exports = solution

@@ -13,3 +13,6 @@ function getMaxLessThanK(n, k) {
     }
     return max;
 }
+
+
+module.exports = getMaxLessThanK

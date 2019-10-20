@@ -12,3 +12,5 @@ function jimOrders(orders) {
     });
     return result.join(" ");
 }
+
+module.exports = jimOrders

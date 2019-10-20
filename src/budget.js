@@ -13,3 +13,5 @@ function solution(d, budget) {
     
     return answer;
 }
+
+module.exports = solution
