@@ -17,3 +17,5 @@ function processData(input) {
         }
     }
 } 
+
+module.exports = processData
